@@ -699,7 +699,4 @@
       <Filter>Test\Ride</Filter>
     </ClInclude>
   </ItemGroup>
-  <ItemGroup>
-    <Text Include="..\data\title\script.txt" />
-  </ItemGroup>
 </Project>
